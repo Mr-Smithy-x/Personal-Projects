@@ -28,12 +28,19 @@ Video: https://www.youtube.com/watch?v=gNWA8q-cZA8
 
 Video: https://www.youtube.com/watch?v=dqEnErfzyC4
 
+
+-----------
+
 Other:
+
 Yoprice: A item priceguide for http://yoworld.com/
 
 Website: http://yoprice.co/
 
 [x] Created API's 
+
 [ ] Android Application.
+
 [ ] Windows Application.
+
 [ ] Web Search Interface.
