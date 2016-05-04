@@ -1,6 +1,10 @@
 # Personal-Projects
 This repository is actually just a showcase for all the personal android projects i released that is not in the google playstore.
 
+Android Chat Client for NextGenUpdate's shoutbox.
+
+Screenshot: http://i.imgur.com/pbRljDD.png
+
 Playstation 3 Projects:
 
 1.) CCAndroid (GTA V RTM TOOL) - A GTA V RTM Tool for ps3
