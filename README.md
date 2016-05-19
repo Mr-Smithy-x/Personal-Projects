@@ -1,11 +1,19 @@
 # Personal-Projects
 This repository is actually just a showcase for all the personal android projects i released that is not in the google playstore.
 
-Latest: Android Chat Client for NextGenUpdate's shoutbox
 
+
+*Latest: 
+
+*CliqSync - (Reader for http://clickhole.com/ )
+https://dl.dropboxusercontent.com/u/24305940/cliq/search.png
+https://dl.dropboxusercontent.com/u/24305940/cliq/home.png
+https://dl.dropboxusercontent.com/u/24305940/cliq/video.png
+
+*Android Chat Client for NextGenUpdate's shoutbox
 Screenshot: http://i.imgur.com/pbRljDD.png
 
-Playstation 3 Projects:
+*Playstation 3 Projects:
 
 1.) CCAndroid (GTA V RTM TOOL) - A GTA V RTM Tool for ps3
 
