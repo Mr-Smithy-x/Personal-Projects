@@ -5,10 +5,12 @@ This repository is actually just a showcase for all the personal android project
 
 ##Latest:
 
-###CliqSync - (Reader for http://clickhole.com/ )
-https://dl.dropboxusercontent.com/u/24305940/cliq/search.png
-https://dl.dropboxusercontent.com/u/24305940/cliq/home.png
-https://dl.dropboxusercontent.com/u/24305940/cliq/video.png
+###CliqSync - (Reader for http://clickhole.com/ ) - WIP
+[Search Layout](https://dl.dropboxusercontent.com/u/24305940/cliq/search.png)
+
+[Home Layout](https://dl.dropboxusercontent.com/u/24305940/cliq/home.png)
+
+[Video Layout](https://dl.dropboxusercontent.com/u/24305940/cliq/video.png)
 
 ###Android Chat Client for NextGenUpdate's shoutbox
 Screenshot: http://i.imgur.com/pbRljDD.png
