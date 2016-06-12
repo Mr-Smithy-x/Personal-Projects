@@ -7,20 +7,28 @@ This repository is actually just a showcase for all the personal android project
 
 ###Tyrunt - (Android Client and Desktop Server, Torrent Downloader)
 [Android Project](https://github.com/Mr-Smithy-x/Tyrunt-Android-Client)
+
 [Windows Project](https://github.com/Mr-Smithy-x/TyruntSync)
 
 [Connection Screen](http://prntscr.com/ao9tg7)
+
 [Connection Screen Init](http://prntscr.com/ao9tm3)
+
 [Homescreen](http://prntscr.com/ao9tot)
+
+
 [Search](http://prntscr.com/ao9tvi)
+
 [Download Screen](http://prntscr.com/ao9u6a)
 
 ###TheOnion - (Reader for http://theonion.com/ )
+
 [Full Development Process Livestream](http://livecoding.tv/mrsmithyx/videos)
 
 [Showcase (YT)](https://www.youtube.com/watch?v=EjBDYK0hBuM)
 
 ###CliqSync - (Reader for http://clickhole.com/ )
+
 [Showcase (YT)](https://www.youtube.com/watch?v=ht6xZwp3cL0)
 
 [Search Layout](https://dl.dropboxusercontent.com/u/24305940/cliq/search.png)
